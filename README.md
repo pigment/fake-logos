@@ -4,7 +4,7 @@ A selection of fake but convincing company logos for real-looking test data.
 
 ## Usage
 
-Download or link to the raw [logos on github](http://github.com/pigment/fake-logos/logos) 
+Download or link to the logos from the table below 
 
 The logos are accessible by:
 
