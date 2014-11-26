@@ -13,19 +13,21 @@ The logos are accessible by:
 
 ## The Logos
 
-Color Logo | Grayscale Logo | Sizes
-| ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/color/vector/greens-food-suppliers.svg" alt="greens-food-suppliers" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/grayscale/vector/greens-food-suppliers.svg" alt="greens-food-suppliers" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/color/vector/greens-food-suppliers.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/color/small/greens-food-suppliers.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/color/medium/greens-food-suppliers.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/color/large/greens-food-suppliers.png">large</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/color/vector/auto-speed.svg" alt="auto-speed" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/grayscale/vector/auto-speed.svg" alt="auto-speed" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/color/vector/auto-speed.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/color/small/auto-speed.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/color/medium/auto-speed.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/color/large/auto-speed.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/greens-food-suppliers.svg" alt="greens-food-suppliers" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/greens-food-suppliers.svg" alt="greens-food-suppliers" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/greens-food-suppliers.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/greens-food-suppliers.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/greens-food-suppliers.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/greens-food-suppliers.png">large</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/color/vector/crofts-accountants.svg" alt="crofts-accountants" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/grayscale/vector/crofts-accountants.svg" alt="crofts-accountants" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/color/vector/crofts-accountants.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/color/small/crofts-accountants.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/color/medium/crofts-accountants.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/color/large/crofts-accountants.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/auto-speed.svg" alt="auto-speed" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/auto-speed.svg" alt="auto-speed" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/auto-speed.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/auto-speed.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/auto-speed.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/auto-speed.png">large</a>
+
+
+Color Logo | Grayscale Logo | Sizes
+| ------ | ------ | -------
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/crofts-accountants.svg" alt="crofts-accountants" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/crofts-accountants.svg" alt="crofts-accountants" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/crofts-accountants.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/crofts-accountants.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/crofts-accountants.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/crofts-accountants.png">large</a>
 
 ## License
 

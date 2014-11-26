@@ -36,11 +36,11 @@ task :default do
 
   logos_for_readme = logos_for_readme.map do |name, files|
     "\n\nColor Logo | Grayscale Logo | Sizes\n| ------ | ------ | -------\n" + 
-    %{<img src="http://pigment.github.io/fake-logos/logos/color/vector/#{name}.svg" alt="#{name}" width="160" /> | } +
-    %{<img src="http://pigment.github.io/fake-logos/logos/grayscale/vector/#{name}.svg" alt="#{name}" width="160" /> | } +
-    %{<a href="http://pigment.github.io/fake-logos/logos/color/vector/#{name}.svg">svg</a>, } +
+    %{<img src="http://pigment.github.io/fake-logos/logos/vector/color/#{name}.svg" alt="#{name}" width="160" /> | } +
+    %{<img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/#{name}.svg" alt="#{name}" width="160" /> | } +
+    %{<a href="http://pigment.github.io/fake-logos/logos/vector/color/#{name}.svg">svg</a>, } +
     sizes.map {|size, geom|
-      %{<a href="http://pigment.github.io/fake-logos/logos/color/#{size}/#{name}.png">#{size}</a>}
+      %{<a href="http://pigment.github.io/fake-logos/logos/#{size}/color/#{name}.png">#{size}</a>}
     }.join(", ")
   end.join("\n")
 
