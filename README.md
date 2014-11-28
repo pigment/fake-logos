@@ -17,47 +17,47 @@ The logos are accessible by:
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/greens-food-suppliers.svg" alt="greens-food-suppliers" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/greens-food-suppliers.svg" alt="greens-food-suppliers" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/greens-food-suppliers.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/greens-food-suppliers.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/greens-food-suppliers.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/greens-food-suppliers.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/greens-food-suppliers.svg" alt="greens-food-suppliers" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/greens-food-suppliers.svg" alt="greens-food-suppliers" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/greens-food-suppliers.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/greens-food-suppliers.svg">grayscale SVG</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/auto-speed.svg" alt="auto-speed" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/auto-speed.svg" alt="auto-speed" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/auto-speed.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/auto-speed.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/auto-speed.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/auto-speed.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/auto-speed.svg" alt="auto-speed" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/auto-speed.svg" alt="auto-speed" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/auto-speed.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/auto-speed.svg">grayscale SVG</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/crofts-accountants.svg" alt="crofts-accountants" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/crofts-accountants.svg" alt="crofts-accountants" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/crofts-accountants.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/crofts-accountants.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/crofts-accountants.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/crofts-accountants.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/crofts-accountants.svg" alt="crofts-accountants" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/crofts-accountants.svg" alt="crofts-accountants" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/crofts-accountants.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/crofts-accountants.svg">grayscale SVG</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/fast-banana.svg" alt="fast-banana" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/fast-banana.svg" alt="fast-banana" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/fast-banana.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/fast-banana.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/fast-banana.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/fast-banana.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/fast-banana.svg" alt="fast-banana" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/fast-banana.svg" alt="fast-banana" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/fast-banana.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/fast-banana.svg">grayscale SVG</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/cheshire-county-hygiene-services.svg" alt="cheshire-county-hygiene-services" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/cheshire-county-hygiene-services.svg" alt="cheshire-county-hygiene-services" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/cheshire-county-hygiene-services.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/cheshire-county-hygiene-services.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/cheshire-county-hygiene-services.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/cheshire-county-hygiene-services.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/cheshire-county-hygiene-services.svg" alt="cheshire-county-hygiene-services" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/cheshire-county-hygiene-services.svg" alt="cheshire-county-hygiene-services" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/cheshire-county-hygiene-services.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/cheshire-county-hygiene-services.svg">grayscale SVG</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/james-and-sons.svg" alt="james-and-sons" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/james-and-sons.svg" alt="james-and-sons" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/james-and-sons.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/james-and-sons.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/james-and-sons.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/james-and-sons.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/james-and-sons.svg" alt="james-and-sons" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/james-and-sons.svg" alt="james-and-sons" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/james-and-sons.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/james-and-sons.svg">grayscale SVG</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/yoga-baby.svg" alt="yoga-baby" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/yoga-baby.svg" alt="yoga-baby" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/yoga-baby.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/yoga-baby.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/yoga-baby.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/yoga-baby.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/yoga-baby.svg" alt="yoga-baby" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/yoga-baby.svg" alt="yoga-baby" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/yoga-baby.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/yoga-baby.svg">grayscale SVG</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/the-dance-studio.svg" alt="the-dance-studio" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/the-dance-studio.svg" alt="the-dance-studio" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/the-dance-studio.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/the-dance-studio.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/the-dance-studio.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/the-dance-studio.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/the-dance-studio.svg" alt="the-dance-studio" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/the-dance-studio.svg" alt="the-dance-studio" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/the-dance-studio.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/the-dance-studio.svg">grayscale SVG</a>
 
 
 Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
-<img src="http://pigment.github.io/fake-logos/logos/vector/color/space-cube.svg" alt="space-cube" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/space-cube.svg" alt="space-cube" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/space-cube.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/space-cube.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/space-cube.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/space-cube.png">large</a>
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/space-cube.svg" alt="space-cube" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/space-cube.svg" alt="space-cube" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/space-cube.svg">Color SVG</a>, <a href="http://pigment.github.io/fake-logos/logos/vector/grayscale/space-cube.svg">grayscale SVG</a>
 
 ## License
 
