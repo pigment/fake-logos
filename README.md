@@ -69,6 +69,16 @@ Color Logo | Grayscale Logo | Sizes
 | ------ | ------ | -------
 <img src="http://pigment.github.io/fake-logos/logos/vector/color/beauty-box.svg" alt="beauty-box" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/beauty-box.svg" alt="beauty-box" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/beauty-box.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/beauty-box.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/beauty-box.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/beauty-box.png">large</a>
 
+
+Color Logo | Grayscale Logo | Sizes
+| ------ | ------ | -------
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/the-web-works.svg" alt="the-web-works" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/the-web-works.svg" alt="the-web-works" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/the-web-works.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/the-web-works.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/the-web-works.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/the-web-works.png">large</a>
+
+
+Color Logo | Grayscale Logo | Sizes
+| ------ | ------ | -------
+<img src="http://pigment.github.io/fake-logos/logos/vector/color/petes-blinds.svg" alt="petes-blinds" width="160" /> | <img src="http://pigment.github.io/fake-logos/logos/vector/grayscale/petes-blinds.svg" alt="petes-blinds" width="160" /> | <a href="http://pigment.github.io/fake-logos/logos/vector/color/petes-blinds.svg">svg</a>, <a href="http://pigment.github.io/fake-logos/logos/small/color/petes-blinds.png">small</a>, <a href="http://pigment.github.io/fake-logos/logos/medium/color/petes-blinds.png">medium</a>, <a href="http://pigment.github.io/fake-logos/logos/large/color/petes-blinds.png">large</a>
+
 ## License
 
 The logos and source artwork are released under [Creative Commons Attribution-Share Alike](http://creativecommons.org/licenses/by-sa/4.0/)
